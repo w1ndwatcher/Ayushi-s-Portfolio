@@ -12,6 +12,6 @@
 
 <p align=justify>Taxi Fare Prediction: The data was taken from Kaggle. Supervised Machine Learning was performed to predict the taxi-fare based on variables like vendor ID, passenger count, pickup and drop-off time, location ID etc. In this project, I have done data cleanup and preprocessing, exploratory data analysis, feature engineering, encoding, scaling, training the model and checking the accuracy.</p>
  
-## [Project: Heart Disease Prediction](https://github.com/w1nterb1rd/Heart-Disease-Prediction)
+## [Data Science Project: Heart Disease Prediction](https://github.com/w1nterb1rd/Heart-Disease-Prediction)
 
 <p align=justify>The data was taken from Kaggle. Based on age, gender and symptoms of a person, the model predicts if that person is likely to have a heart attack or not. Since the dependent variable is categorical in nature, logistic regression model has been used. In this project, I have done step by step cleaning of data, treatment of outliers, dividing the data into test and train, modelling and accuracy check. Depending on the correlation between the independent variables, three models have been compared.</p>
