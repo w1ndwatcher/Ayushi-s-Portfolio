@@ -4,9 +4,10 @@
 
  These are some of the Web Application Development projects I did using Python, Flask, Vue, SQLite.
  
- * Library Management System - Digital Library management, add sections and e-books, issue/return books, get reporting and daily reminders, view stats on dashboard
- * BlogLite App - User and profile management, post blogs, read and rate blogs, follow other bloggers.
- * Flask Vue CRUD App - A basic CRUD application to learn Flask and Vue frameworks
+ * [Library Management System](https://github.com/w1ndwatcher/Application-Development/tree/main/Library%20Management%20System) - Digital Library management, add sections and e-books, issue/return books, get reporting and daily reminders, view stats on dashboard
+ * [BlogLite App](https://github.com/w1ndwatcher/Application-Development/tree/main/BlogLite%20App) - User and profile management, post blogs, read and rate blogs, follow other bloggers.
+ * [Flask Vue CRUD App](https://github.com/w1ndwatcher/Application-Development/tree/main/flask-vue-crud-app) - A basic CRUD application to learn Flask and Vue frameworks
+ * [Birthday Wisher App](https://github.com/w1ndwatcher/Application-Development/tree/main/BirthdayWisher) - A fun project that asks for a user's age and presents a virtual cake with that many candles. The app then detects sound, giving the impression of blowing candles and plays a birthday song for them.
 
 ## [Machine Learning Project: Taxi Fare Prediction](https://github.com/w1ndwatcher/Machine-Learning)
 
