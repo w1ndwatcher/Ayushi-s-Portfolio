@@ -13,7 +13,7 @@
 
 These are some Machine Learning Projects I did using datasets taken from Kaggle. I have used Python Data Science libraries like scikit-learn.
 
-* [Taxi Fare Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/21f1006327-notebook-t32023.ipynb): Supervised Machine Learning was performed to predict the taxi-fare based on variables like vendor ID, passenger count, pickup and drop-off time, location ID etc. In this project, I have done data cleanup and preprocessing, exploratory data analysis, feature engineering, encoding, scaling, training the model and checking the accuracy.
+* [Taxi Fare Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/TaxiFarePrediction.ipynb): Supervised Machine Learning was performed to predict the taxi-fare based on variables like vendor ID, passenger count, pickup and drop-off time, location ID etc. In this project, I have done data cleanup and preprocessing, exploratory data analysis, feature engineering, encoding, scaling, training the model and checking the accuracy.
 * [Soil Analysis](https://github.com/w1ndwatcher/Machine-Learning/blob/main/SoilCropClassification.ipynb): Multiclass Classification was performed to predict the optimal choice of crop, given soil parameters like Nitrogen, Phosphorus and Potassium levels and pH.
 * [Rental Price Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/RentalPricePrediction.ipynb): Supervised Machine Learning was performed to predict the rent of property depending on locality, area, no. of bedrooms and balconies etc.
 
