@@ -1,5 +1,11 @@
 # Ayushi-s-Portfolio
 
+## [AI Applications](https://github.com/w1ndwatcher/Transformers)
+
+These include AI applications and course material I created for technical training bootcamps on RAG based applications.
+
+ * [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers) - Colab notebooks explaining each step of a RAG pipeline in detail.
+
 ## [Application Development Projects](https://github.com/w1nterb1rd/Application-Development)
 
  These are some of the Web Application Development projects I did using Python, Flask, Vue, SQLite.
