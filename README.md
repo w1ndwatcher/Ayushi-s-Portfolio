@@ -23,7 +23,7 @@ These are some Machine Learning Projects I did using datasets taken from Kaggle.
 * [Soil Analysis](https://github.com/w1ndwatcher/Machine-Learning/blob/main/SoilCropClassification.ipynb): Multiclass Classification was performed to predict the optimal choice of crop, given soil parameters like Nitrogen, Phosphorus and Potassium levels and pH.
 * [Rental Price Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/RentalPricePrediction.ipynb): Supervised Machine Learning was performed to predict the rent of property depending on locality, area, no. of bedrooms and balconies etc.
 
-## [Data Visualization with Python](https://github.com/w1ndwatcher/Data-Visualization-with-Python)
+## [Data Visualization with Python](https://github.com/w1ndwatcher/Data-Visualization-with-Python/blob/main/Data_Visualization_with_Python.ipynb)
 
 <p align=justify>Exploring matplotlib, seaborn and Folium to plot various kind of visualizations.</p>
  
