@@ -5,6 +5,7 @@
 These include AI applications and course material I created for technical training bootcamps on RAG based applications.
 
  * [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers) - Colab notebooks explaining each step of a RAG pipeline in detail.
+ * [LTalk Chatbot](https://github.com/w1ndwatcher/LTalk) - RAG based Chatbot with Data Ingestion and Retrieval Pipeline
 
 ## [Application Development Projects](https://github.com/w1nterb1rd/Application-Development)
 
