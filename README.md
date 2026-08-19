@@ -6,6 +6,7 @@ These include AI applications and course material I created for technical traini
 
  * [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers) - Colab notebooks explaining each step of a RAG pipeline in detail.
  * [LTalk Chatbot](https://github.com/w1ndwatcher/LTalk) - RAG based Chatbot with Data Ingestion and Retrieval Pipeline.
+ * [IndicTTS Deepfake Audio Detection](https://github.com/w1ndwatcher/IndicTTS-Deepfake-Challenge) - Binary audio classifier that distinguishes AI-generated (TTS) speech from authentic human speech, fine-tuned on the IndicTTS Deepfake Challenge dataset
  * [Multi-Agent Debate Competition](https://github.com/w1ndwatcher/AI-Debate-System) - Multi-Agent system built using CrewAI and self hosted LLM on Ollama.
 
 ## [Application Development Projects](https://github.com/w1nterb1rd/Application-Development)
@@ -13,6 +14,7 @@ These include AI applications and course material I created for technical traini
  These are some of the Web Application Development projects I did using Python, Flask, Vue, SQLite.
  
  * [Library Management System](https://github.com/w1ndwatcher/Library-Management-System) - Digital Library management, add sections and e-books, issue/return books, get reporting and daily reminders, view stats on dashboard
+ * [Collab-Board](https://github.com/w1ndwatcher/collab-board) - Real-time collaborative Kanban board with user authentication, drag-and-drop task management, live updates, and AI-powered board summaries.
  * [BlogLite App](https://github.com/w1ndwatcher/Application-Development/tree/main/BlogLite%20App) - User and profile management, post blogs, read and rate blogs, follow other bloggers.
  * [Flask Vue CRUD App](https://github.com/w1ndwatcher/Application-Development/tree/main/flask-vue-crud-app) - A basic CRUD application to learn Flask and Vue frameworks
  * [Birthday Wisher App](https://github.com/w1ndwatcher/Application-Development/tree/main/BirthdayWisher) - A fun project that asks for a user's age and presents a virtual cake with that many candles. The app then detects sound, giving the impression of blowing candles and plays a birthday song for them.
