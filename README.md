@@ -69,26 +69,19 @@ Selected professional projects from my previous role are available on my former 
 
 ## Technologies
 
-**Languages:**  
-Python, SQL, JavaScript
+**Languages:**  Python, SQL, JavaScript
 
-**AI / Machine Learning:**  
-Generative AI, RAG, LangChain, CrewAI, Ollama, scikit-learn, PyTorch
+**AI / Machine Learning:**  Generative AI, RAG, LangChain, CrewAI, Ollama, scikit-learn, PyTorch
 
-**Backend:**  
-Django, Flask
+**Backend:**  Django, Flask
 
-**Frontend:**  
-React.js, Vue, BootStrap
+**Frontend:**  React.js, Vue, BootStrap
 
-**Data:**  
-Pandas, NumPy, Matplotlib, Seaborn, MySQL, SQLite
+**Data:**  Pandas, NumPy, Matplotlib, Seaborn, MySQL, SQLite
 
-**Vector Search:**  
-FAISS, Qdrant, Azure AI Search
+**Vector Search:**  FAISS, Qdrant, Azure AI Search
 
-**Tools:**  
-Git, GitHub, Jupyter, Docker, Azure, Azure Foundry, Clickup, Slack
+**Tools:**  Git, GitHub, Jupyter, Docker, Azure, Azure Foundry, Clickup, Slack
 
 ---
 
