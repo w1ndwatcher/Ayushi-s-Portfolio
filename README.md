@@ -1,37 +1,105 @@
-# Ayushi-s-Portfolio
+# Ayushi Saxena
 
-## [AI Applications](https://github.com/w1ndwatcher/Transformers)
+Software Developer | AI Engineer | Python Developer
 
-These include AI applications and course material I created for technical training bootcamps on RAG based applications.
+This repository serves as a portfolio of my work across **Generative AI, Machine Learning, Data Science, and Web Application Development**.
 
- * [Chart Recommendation System](https://github.com/cdsaashoka/datalake_dev/tree/ayushi_merge_intelligence/chart_suggestion_system) - CrewAI based chart recommendations based on metadata of uploaded datasets. End to end multi-agent pipeline for domain understanding, relationship extraction, visualization planning, and strict validation.
- * [LTalk Chatbot](https://github.com/w1ndwatcher/LTalk) - RAG based Chatbot with Data Ingestion and Retrieval Pipeline.
- * [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers) - Colab notebooks explaining each step of a RAG pipeline in detail.
- * [IndicTTS Deepfake Audio Detection](https://github.com/w1ndwatcher/IndicTTS-Deepfake-Challenge) - Binary audio classifier that distinguishes AI-generated (TTS) speech from authentic human speech, fine-tuned on the IndicTTS Deepfake Challenge dataset
- * [Multi-Agent Debate Competition](https://github.com/w1ndwatcher/AI-Debate-System) - Multi-Agent system built using CrewAI and self hosted LLM on Ollama.
+---
 
-## [Application Development Projects](https://github.com/w1nterb1rd/Application-Development)
+## AI Applications
 
- These are some of the Web Application Development projects I did using Python, Flask, Vue, SQLite.
- 
- * [Library Management System](https://github.com/w1ndwatcher/Library-Management-System) - Digital Library management, add sections and e-books, issue/return books, get reporting and daily reminders, view stats on dashboard
- * [Collab-Board](https://github.com/w1ndwatcher/collab-board) - Real-time collaborative Kanban board with user authentication, drag-and-drop task management, live updates, and AI-powered board summaries.
- * [BlogLite App](https://github.com/w1ndwatcher/Application-Development/tree/main/BlogLite%20App) - User and profile management, post blogs, read and rate blogs, follow other bloggers.
- * [Flask Vue CRUD App](https://github.com/w1ndwatcher/Application-Development/tree/main/flask-vue-crud-app) - A basic CRUD application to learn Flask and Vue frameworks
- * [Birthday Wisher App](https://github.com/w1ndwatcher/Application-Development/tree/main/BirthdayWisher) - A fun project that asks for a user's age and presents a virtual cake with that many candles. The app then detects sound, giving the impression of blowing candles and plays a birthday song for them.
+Projects involving **Generative AI, RAG, multi-agent systems, LLMs, and AI/ML applications**.
 
-## [Machine Learning Project: Taxi Fare Prediction](https://github.com/w1ndwatcher/Machine-Learning)
+- [Chart Recommendation System](https://github.com/cdsaashoka/datalake_dev/tree/ayushi_merge_intelligence/chart_suggestion_system)  
+  CrewAI-based chart recommendation system that analyzes dataset metadata and generates appropriate visualizations through an end-to-end multi-agent pipeline involving domain understanding, relationship extraction, visualization planning, and validation.
+- [LTalk Chatbot](https://github.com/w1ndwatcher/LTalk)  
+  RAG-based chatbot with a complete data ingestion, embedding, retrieval, and response-generation pipeline.
+- [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers)  
+  Hands-on notebooks explaining the different stages of building a Retrieval-Augmented Generation (RAG) pipeline.
+- [IndicTTS Deepfake Audio Detection](https://github.com/w1ndwatcher/IndicTTS-Deepfake-Challenge)  
+  Binary audio classifier designed to distinguish AI-generated (TTS) speech from authentic human speech using the IndicTTS Deepfake Challenge dataset.
+- [Multi-Agent Debate Competition](https://github.com/w1ndwatcher/AI-Debate-System)  
+  Multi-agent debate system built using CrewAI and a self-hosted LLM through Ollama.
 
-These are some Machine Learning Projects I did using datasets taken from Kaggle. I have used Python Data Science libraries like scikit-learn.
+---
 
-* [Taxi Fare Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/TaxiFarePrediction.ipynb): Supervised Machine Learning was performed to predict the taxi-fare based on variables like vendor ID, passenger count, pickup and drop-off time, location ID etc. In this project, I have done data cleanup and preprocessing, exploratory data analysis, feature engineering, encoding, scaling, training the model and checking the accuracy.
-* [Soil Analysis](https://github.com/w1ndwatcher/Machine-Learning/blob/main/SoilCropClassification.ipynb): Multiclass Classification was performed to predict the optimal choice of crop, given soil parameters like Nitrogen, Phosphorus and Potassium levels and pH.
-* [Rental Price Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/RentalPricePrediction.ipynb): Supervised Machine Learning was performed to predict the rent of property depending on locality, area, no. of bedrooms and balconies etc.
+## Application Development
 
-## [Data Visualization with Python](https://github.com/w1ndwatcher/Data-Visualization-with-Python/blob/main/Data_Visualization_with_Python.ipynb)
+Web application projects developed using **Python, Flask, Django, Vue, SQLite, Celery, and related technologies**.
 
-<p align=justify>Exploring matplotlib, seaborn and Folium to plot various kind of visualizations.</p>
- 
-## [Data Science Project: Heart Disease Prediction](https://github.com/w1nterb1rd/Heart-Disease-Prediction)
+- [Collab-Board](https://github.com/w1ndwatcher/collab-board)  
+  Real-time collaborative Kanban board with user authentication, drag-and-drop task management, live updates, and AI-powered board summaries.
+- [Library Management System](https://github.com/w1ndwatcher/Library-Management-System)  
+  Digital library management application supporting sections and e-books, issue/return workflows, reporting, daily reminders, and dashboard statistics.
+- [BlogLite App](https://github.com/w1ndwatcher/Application-Development/tree/main/BlogLite%20App)  
+  Blog application with user profiles, posts, ratings, and follow functionality.
+- [Flask Vue CRUD App](https://github.com/w1ndwatcher/Application-Development/tree/main/flask-vue-crud-app)  
+  CRUD application developed to explore Flask and Vue integration.
+- [Birthday Wisher App](https://github.com/w1ndwatcher/Application-Development/tree/main/BirthdayWisher)  
+  Interactive birthday application featuring a virtual cake, sound detection for candle blowing, and birthday music.
 
-<p align=justify>The data was taken from Kaggle. Based on age, gender and symptoms of a person, the model predicts if that person is likely to have a heart attack or not. Since the dependent variable is categorical in nature, logistic regression model has been used. In this project, I have done step by step cleaning of data, treatment of outliers, dividing the data into test and train, modelling and accuracy check. Depending on the correlation between the independent variables, three models have been compared.</p>
+---
+
+## Machine Learning
+
+Machine learning projects using **Python, pandas, NumPy, scikit-learn, and data science workflows**.
+
+- [Taxi Fare Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/TaxiFarePrediction.ipynb)  
+  Supervised learning model for predicting taxi fares using features such as vendor, passenger count, pickup/drop-off time, and location. Includes data cleaning, EDA, feature engineering, encoding, scaling, model training, and evaluation.
+- [Soil & Crop Classification](https://github.com/w1ndwatcher/Machine-Learning/blob/main/SoilCropClassification.ipynb)  
+  Multiclass classification model for predicting suitable crops based on soil parameters including Nitrogen, Phosphorus, Potassium, and pH.
+- [Rental Price Prediction](https://github.com/w1ndwatcher/Machine-Learning/blob/main/RentalPricePrediction.ipynb)  
+  Supervised learning project for predicting property rental prices using features such as locality, area, bedrooms, and balconies.
+
+---
+
+## Data Visualization
+
+[Data Visualization with Python](https://github.com/w1ndwatcher/Data-Visualization-with-Python/blob/main/Data_Visualization_with_Python.ipynb)
+
+Exploration of data visualization techniques using **Matplotlib, Seaborn, and Folium**, covering a variety of statistical, geographic, and exploratory visualizations.
+
+---
+
+## Data Science
+
+[Heart Disease Prediction](https://github.com/w1nterb1rd/Heart-Disease-Prediction)
+
+A classification project using a Kaggle dataset to predict the likelihood of heart disease based on patient attributes and symptoms.
+The project covers **data cleaning, outlier treatment, train/test splitting, correlation analysis, logistic regression, model comparison, and evaluation**.
+
+---
+
+## Professional Work
+
+Selected professional projects from my previous role are available on my former work GitHub account:
+
+**[Ayushi-0311](https://github.com/Ayushi-0311)**
+
+> Professional repositories are kept on the original work account and are not duplicated here.
+
+---
+
+## Technologies
+
+**Languages:**  
+Python, SQL, JavaScript
+**AI / Machine Learning:**  
+Generative AI, RAG, LangChain, CrewAI, Ollama, scikit-learn, PyTorch
+**Backend:**  
+Django, Flask
+**Frontend:**  
+React.js, Vue, BootStrap
+**Data:**  
+Pandas, NumPy, Matplotlib, Seaborn, MySQL, SQLite
+**Vector Search:**  
+FAISS, QDrant, Azure AI Search
+**Tools:**  
+Git, GitHub, Jupyter, Docker, Azure, Azure Foundry, Clickup, Slack
+
+---
+
+## Connect
+
+- [GitHub](https://github.com/w1ndwatcher)
+- [LinkedIn](https://www.linkedin.com/in/ayushi-saxena-416bb9168/)
