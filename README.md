@@ -12,6 +12,7 @@ Projects involving **Generative AI, RAG, multi-agent systems, LLMs, and AI/ML ap
 
 - [Chart Recommendation System](https://github.com/cdsaashoka/datalake_dev/tree/ayushi_merge_intelligence/chart_suggestion_system): CrewAI-based chart recommendation system that analyzes dataset metadata and generates appropriate visualizations through an end-to-end multi-agent pipeline involving domain understanding, relationship extraction, visualization planning, and validation.
 - [LTalk Chatbot](https://github.com/w1ndwatcher/LTalk): RAG-based chatbot with a complete data ingestion, embedding, retrieval, and response-generation pipeline.
+- [Travel Reimbursement Approval System](https://github.com/w1ndwatcher/travel-reimbursement-approval-agent): Policy-grounded agentic system that evaluates travel expense claims against a rules document and outputs structured approve/reject/manual-review decisions.
 - [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers): Hands-on notebooks explaining the different stages of building a Retrieval-Augmented Generation (RAG) pipeline.
 - [IndicTTS Deepfake Audio Detection](https://github.com/w1ndwatcher/IndicTTS-Deepfake-Challenge): Binary audio classifier designed to distinguish AI-generated (TTS) speech from authentic human speech using the IndicTTS Deepfake Challenge dataset.
 - [Multi-Agent Debate Competition](https://github.com/w1ndwatcher/AI-Debate-System): Multi-agent debate system built using CrewAI and a self-hosted LLM through Ollama.
