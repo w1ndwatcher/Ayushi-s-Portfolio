@@ -4,8 +4,9 @@
 
 These include AI applications and course material I created for technical training bootcamps on RAG based applications.
 
- * [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers) - Colab notebooks explaining each step of a RAG pipeline in detail.
+ * [Chart Recommendation System](https://github.com/cdsaashoka/datalake_dev/tree/ayushi_merge_intelligence/chart_suggestion_system) - CrewAI based chart recommendations based on metadata of uploaded datasets. End to end multi-agent pipeline for domain understanding, relationship extraction, visualization planning, and strict validation.
  * [LTalk Chatbot](https://github.com/w1ndwatcher/LTalk) - RAG based Chatbot with Data Ingestion and Retrieval Pipeline.
+ * [RAG Pipeline Hands-On](https://github.com/w1ndwatcher/Transformers) - Colab notebooks explaining each step of a RAG pipeline in detail.
  * [IndicTTS Deepfake Audio Detection](https://github.com/w1ndwatcher/IndicTTS-Deepfake-Challenge) - Binary audio classifier that distinguishes AI-generated (TTS) speech from authentic human speech, fine-tuned on the IndicTTS Deepfake Challenge dataset
  * [Multi-Agent Debate Competition](https://github.com/w1ndwatcher/AI-Debate-System) - Multi-Agent system built using CrewAI and self hosted LLM on Ollama.
 
